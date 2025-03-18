@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics
 - 🌱 I'm skilled on SQL,Python,PowerBI,Advanced Excel,Tableau 
 - 📫 Currenntly searching for a job to kickup my career
-- 😄 Pronouns: If you can't,then who can.
+- 😄 Pronouns: "If you can't,then who can"
 
 <!---
 katheejarihana/katheejarihana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
