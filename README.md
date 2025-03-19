@@ -1,4 +1,4 @@
-Hi All, I’m Katheeja Rihana.I’m interested in Data Analytics.I'm skilled on SQL,Python,PowerBI,Advanced Excel,Tableau .Currenntly searching for a job to kickup my career.
+Hi All, I’m Katheeja Rihana.I have 1 year of intern experience as a data analyst at RR IT Solutions, Chennai.I'm skilled on SQL,Python,PowerBI,Advanced Excel .Currenntly searching for a job to kickup my career.
 
 <!---
 katheejarihana/katheejarihana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
